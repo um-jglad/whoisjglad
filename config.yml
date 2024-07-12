@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Jacob Gladfelter
           subtitle: "I am a HPC Systems Administrator and Support Profesional for The School of Public Health at the University of Michigan."
-          imageUrl: "profile_picture.jpeg"
+          imageUrl: https://avatars.githubusercontent.com/u/59100743?v=4
           imageWidth: 160
           imageHeight: 160
           imageTitle: Jacob GLadfelter
@@ -85,7 +85,7 @@ params:
         # - name: Location
         #   url: location/
         - name: Office Hours
-          url: officehours/
+          url: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3hiZbzET2kWXFKNS5Y4wX8aPCElP_QCQEc9HusqVlrIFx3MM53cQBHPGVGp7XRyHmKbio5l166?gv=true
         # - name: Google Scholar
         #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
