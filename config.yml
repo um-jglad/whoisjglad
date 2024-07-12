@@ -61,7 +61,7 @@ params:
           imageTitle: Jacob GLadfelter
           buttons:
             - name: Projects
-              url: projects/
+              url: projects/ggplot-workshop
             # - name: Courses
             #   url: courses/
             # - name: Data
