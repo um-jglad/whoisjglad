@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-.DS_Store
-.hugo_build.lock
-=======
 # Hugo build artifacts
 public/
 resources/
 .hugo_build.lock
->>>>>>> template/main
