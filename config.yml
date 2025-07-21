@@ -1,10 +1,11 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Moritz-Maria von Igelfeld
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+pagination:
+  pagerSize: 20
 
 taxonomies:
     tag: tags
@@ -28,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -58,16 +59,15 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
             - name: Data
               url: data/
             - name: Books
               url: books/
+            - name: Courses
+              url: courses/
             - name: Tags
               url: tags/
             - name: Archive
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:igelfeld@regensburg.edu
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -93,9 +93,11 @@ params:
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/pmichaillat
+        - name: Bluesky
+          url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
