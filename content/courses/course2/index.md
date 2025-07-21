@@ -1,7 +1,6 @@
 ---
 title: "Profanity in Early Irish" 
 date: 1990-06-16
-lastmod: 2024-05-08
 tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
 author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
 description: "This undergraduate course discusses profanity in Early Irish." 
@@ -9,7 +8,7 @@ summary: "This undergraduate course discusses profanity in Early Irish, and rela
 cover:
     image: "course2.png"
     alt: "Figure caption"
-    relative: false
+    relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
     Text: "Course portal"
@@ -34,8 +33,8 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory readings
 
-+ [Paper 1](https://pascalmichaillat.org/13.pdf) – This paper argues things.
-+ [Paper 2](https://pascalmichaillat.org/9.pdf) – This paper finds other results. 
++ [Paper 1](https://pascalmichaillat.org/1.pdf)
++ [Paper 2](https://pascalmichaillat.org/13.pdf)
 
 ---
 
@@ -56,8 +55,8 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/7.pdf) – This paper finds things.
-+ [Paper 4](https://pascalmichaillat.org/8.pdf) – This survey reviews things.
++ [Paper 3](https://pascalmichaillat.org/7.pdf)
++ [Paper 4](https://pascalmichaillat.org/8.pdf)
 
 ---
 
@@ -71,15 +70,19 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ##### Lecture videos
 
-+ [Lecture video 3](https://youtu.be/ZgYtFURIu4A)
-+ [Lecture video 4](https://youtu.be/6j2Debc6LcI)
++ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
++ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
 
-##### Readings
+##### Compulsory readings
 
-+ [Paper 5](https://pascalmichaillat.org/10.pdf) – This paper shows stuff.
-+ [Paper 6](https://pascalmichaillat.org/11.pdf) – This paper shows other things.
-+ [Paper 6](https://pascalmichaillat.org/14.pdf) – This paper demonstrates advanced results.
-+ [Paper 7](https://pascalmichaillat.org/15.pdf) – This paper reviews some earlier papers and discusses newer work.
++ [Paper 5](https://pascalmichaillat.org/10.pdf)
++ [Paper 6](https://pascalmichaillat.org/11.pdf)
+
+##### Optional readings
+
++ [Paper 7](https://pascalmichaillat.org/2.pdf)
++ [Paper 8](https://pascalmichaillat.org/4.pdf)
++ [Paper 9](https://pascalmichaillat.org/5.pdf)
 
 ##### Homework
 
@@ -101,20 +104,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 + [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
 + [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
-
----
-
-## Part 4: Modernization of profanity
-
-This section turns to the modernization of profanity over the ages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-##### Lecture videos
-
-+ [Lecture video 7](https://youtu.be/rgcpMgKfCk8)
-+ [Lecture video 8](https://youtu.be/7O9wMwcABaI)
-+ [Lecture video 9](https://youtu.be/RZ1jK-S37sQ)
 
 ---
 
