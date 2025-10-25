@@ -1,6 +1,5 @@
 baseURL: "um-jglad.github.io/whoisjglad" 
 title: Jacob Gladfelter
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -13,8 +12,11 @@ taxonomies:
 
 menu:
     main:
+        - name: Home
+          url: /
+          weight: 1
         - name: Projects
-          url: projects/ggplot-workshop
+          url: projects/
           weight: 5 
         # - name: Papers
         #   url: papers/
@@ -34,19 +36,21 @@ params:
     author: Jaocb Gladfelter
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["projects"]
     ShowToc: false
+    # Add this to make external links open in new tabs
+    externalLinkTarget: "_blank"
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
@@ -58,12 +62,12 @@ params:
           title: Jacob Gladfelter
           subtitle: "I am a HPC Systems Administrator and Support Profesional for The School of Public Health at the University of Michigan."
           imageUrl: https://avatars.githubusercontent.com/u/59100743?v=4
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Jacob GLadfelter
+          imageWidth: 240
+          imageHeight: 240
+          imageTitle: Jacob Gladfelter
           buttons:
             - name: Projects
-              url: projects/ggplot-workshop
+              url: projects/
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -81,7 +85,7 @@ params:
         # - name: CV
         #   url: cv.pdf
         - name: Email
-          url: mailto:sph-hpc-help@umich.edu
+          url: mailto:jglad@umich.edu
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         # - name: Location
@@ -113,6 +117,9 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+        parser:
+          attribute:
+            block: true
     highlight:
         guessSyntax: true
         style: autumn 
